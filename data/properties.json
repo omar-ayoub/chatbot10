@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Luxury Apartment",
+      "location": "New York",
+      "price": 1000000,
+      "description": "A luxurious apartment in the heart of New York City.",
+      "area": 150,
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    {
+      "name": "Cozy House",
+      "location": "Los Angeles",
+      "price": 750000,
+      "description": "A cozy house with a garden in a peaceful neighborhood.",
+      "area": 200,
+      "bedrooms": 4,
+      "bathrooms": 3
+    },
+    {
+      "name": "Modern Condo",
+      "location": "Chicago",
+      "price": 500000,
+      "description": "A modern condominium with city views.",
+      "area": 120,
+      "bedrooms": 2,
+      "bathrooms": 2
+    }
+  ]
+  

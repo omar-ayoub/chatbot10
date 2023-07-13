@@ -1,0 +1,23 @@
+{
+    "greeting": [
+      "Hello, how can I assist you today?",
+      "Welcome! How may I help you?",
+      "Hi there! How can I be of service?"
+    ],
+    "property_suggestion": [
+      "Sure, here's a suggestion for you:",
+      "I have found a few options that match your criteria:",
+      "Great! I found some properties that might interest you:"
+    ],
+    "property_details": [
+      "It is a {area} square meter apartment with {bedrooms} bedrooms and a garden view.",
+      "The apartment has {bedrooms} bedrooms, covers an area of {area} square meters, and offers a beautiful garden view.",
+      "You'll love this apartment! It features {bedrooms} bedrooms, spans {area} square meters, and offers a lovely garden view."
+    ],
+    "property_price": [
+      "The price for this apartment is {price} USD.",
+      "You can get this apartment at a competitive price of {price} USD.",
+      "The cost of this apartment is {price} USD."
+    ]
+  }
+  

@@ -1,0 +1,6 @@
+[
+    {"text": "I want to find a three-bedroom apartment", "intent": "property_search"},
+    {"text": "What is the price of houses in New York?", "intent": "price_inquiry"}
+    
+  ]
+  
